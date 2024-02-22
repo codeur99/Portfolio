@@ -1,0 +1,518 @@
+html {
+    font-size: 62.5%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+input {
+    border: none;
+}
+
+body {
+    width: 144rem;
+}
+
+.mon-site-portofolio-Yvr {
+    box-sizing: border-box;
+    padding: 0rem 25.291rem 142.1rem 13.8rem;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+}
+
+.mon-site-portofolio-Yvr .er-premire-section-g9t {
+    margin-bottom: 2.2985rem;
+    width: 100%;
+    height: 57.6rem;
+    position: relative;
+    box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25), 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+    flex-shrink: 0;
+}
+
+.mon-site-portofolio-Yvr .er-premire-section-g9t .fond-prsentation-8g6 {
+    width: 47.0032rem;
+    height: 33.769rem;
+    position: absolute;
+    left: 57.3707rem;
+    top: 14.731rem;
+    box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+    background-color: #d9d9d9;
+}
+
+.mon-site-portofolio-Yvr .er-premire-section-g9t .fond-prsentation-mDG {
+    width: 14.3412rem;
+    height: 9.3296rem;
+    position: absolute;
+    left: 78.3302rem;
+    top: 32.5789rem;
+    object-fit: contain;
+    vertical-align: top;
+}
+
+.mon-site-portofolio-Yvr .er-premire-section-g9t .fond-a-propos-de-moi-T66 {
+    width: 15.9834rem;
+    height: 2.231rem;
+    position: absolute;
+    left: 82.786rem;
+    top: 11.2831rem;
+    background-color: #d9d9d9;
+}
+
+.mon-site-portofolio-Yvr .er-premire-section-g9t .er-a-propos-de-moi-BGz {
+    width: 13.2rem;
+    height: 2.1rem;
+    position: absolute;
+    left: 83.8378rem;
+    top: 9.3563rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #0e0404;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    display: flex;
+    align-items: baseline;
+}
+
+.mon-site-portofolio-Yvr .er-premire-section-g9t .er-a-propos-de-moi-BGz .er-a-propos-de-moi-BGz-sub-0 {}
+
+.mon-site-portofolio-Yvr .er-premire-section-g9t .er-a-propos-de-moi-BGz .er-a-propos-de-moi-BGz-sub-1 {
+    font-size: 1.7rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #0e0404;
+    font-family: Inter, 'Source Sans Pro';
+}
+
+.mon-site-portofolio-Yvr .er-premire-section-g9t .fond-prsentation-MUJ {
+    width: 28.4737rem;
+    height: 16.0225rem;
+    position: absolute;
+    left: 71.6718rem;
+    top: 15.6437rem;
+    background-color: #ffffff;
+}
+
+.mon-site-portofolio-Yvr .er-premire-section-g9t .barre-de-lentete--sBk {
+    width: 97.382rem;
+    height: 8.6197rem;
+    position: absolute;
+    left: 6.8803rem;
+    top: 1.2437rem;
+    border: solid 0.1rem #000000;
+    box-sizing: border-box;
+    box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+    background-color: #2ecc71;
+}
+
+.mon-site-portofolio-Yvr .er-premire-section-g9t .logo-gris-jjk {
+    width: 19.7397rem;
+    height: 14.5842rem;
+    position: absolute;
+    left: 9.7747rem;
+    top: 0;
+    box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+    background-color: #d9d9d9;
+}
+
+.mon-site-portofolio-Yvr .er-premire-section-g9t .logo-jaune-eri {
+    width: 18.8598rem;
+    height: 13.931rem;
+    position: absolute;
+    left: 9.9143rem;
+    top: 6.4785rem;
+    filter: blur(0);
+    background-color: #f1c40f;
+}
+
+.mon-site-portofolio-Yvr .er-premire-section-g9t .logo-vert-Bre {
+    width: 18.8598rem;
+    height: 13.931rem;
+    position: absolute;
+    left: 0rem;
+    top: 0;
+    box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+    background-color: #2ecc71;
+}
+
+.mon-site-portofolio-Yvr .er-premire-section-g9t .logo-bleu-goQ {
+    width: 18.8598rem;
+    height: 13.931rem;
+    position: absolute;
+    left: 19.9683rem;
+    top: 0;
+    background-color: #3498db;
+}
+
+.mon-site-portofolio-Yvr .er-premire-section-g9t .hello-je-mappelle-lebomo-jessy-christopher-je-suis-dveloppeur-dapplication-web-et-mobile-jimplemente-la-logique-metier-ou-encore-la-logique-business-qui-pour-moi-traduit-les-objectifs-rels-de-lapplication-Ea2 {
+    width: 26rem;
+    height: 13.6rem;
+    position: absolute;
+    left: 73.1537rem;
+    top: 15.9479rem;
+    font-size: 1.6rem;
+    font-weight: 200;
+    line-height: 1.2125;
+    font-style: italic;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+}
+
+.mon-site-portofolio-Yvr .er-premire-section-g9t .formation-certificat-zhc {
+    width: 4.6rem;
+    height: 1.5rem;
+    position: absolute;
+    left: 97.9113rem;
+    top: 3.7789rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #0e0404;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+}
+
+.mon-site-portofolio-Yvr .er-premire-section-g9t .formation-certificat-hc2 {
+    width: 12.8rem;
+    height: 1.5rem;
+    position: absolute;
+    left: 83.1981rem;
+    top: 3.7789rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #0e0404;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+}
+
+.mon-site-portofolio-Yvr .er-premire-section-g9t .travaux-raliss-cU6 {
+    width: 9.2rem;
+    height: 1.5rem;
+    position: absolute;
+    left: 72.719rem;
+    top: 3.7789rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #0e0404;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+}
+
+.mon-site-portofolio-Yvr .er-premire-section-g9t .mes-comptences-KNW {
+    width: 10.5rem;
+    height: 1.5rem;
+    position: absolute;
+    left: 60.7579rem;
+    top: 3.6775rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #0e0404;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+}
+
+.mon-site-portofolio-Yvr .er-premire-section-g9t .mes-services-2Gv {
+    width: 7.5rem;
+    height: 1.5rem;
+    position: absolute;
+    left: 51.1256rem;
+    top: 3.5761rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #0e0404;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+}
+
+.mon-site-portofolio-Yvr .er-premire-section-g9t .a-propos-de-moi-XzN {
+    width: 9.3rem;
+    height: 1.5rem;
+    position: absolute;
+    left: 39.7996rem;
+    top: 3.5761rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #0e0404;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+}
+
+.mon-site-portofolio-Yvr .er-premire-section-g9t .whatsapp-image-2024-02-12-1542-1-SrS {
+    width: 13.0196rem;
+    height: 30.4225rem;
+    position: absolute;
+    left: 57.6996rem;
+    top: 15.6437rem;
+    object-fit: cover;
+    vertical-align: top;
+}
+
+.mon-site-portofolio-Yvr .mes-services-uV8 {
+    margin: 0rem 0rem 2rem 16.557rem;
+    width: 81.4752rem;
+    flex-shrink: 0;
+}
+
+.mon-site-portofolio-Yvr .mes-services-uV8 .auto-group-gvxz-Qgn {
+    margin: 0rem 0rem 1.732rem 0.862rem;
+    width: 80.6132rem;
+    height: 2.1013rem;
+    position: relative;
+}
+
+.mon-site-portofolio-Yvr .mes-services-uV8 .auto-group-gvxz-Qgn .mes-services-jDG {
+    width: 10.6rem;
+    height: 2.1rem;
+    position: absolute;
+    left: 29.1887rem;
+    top: 0.0013rem;
+    text-align: center;
+    font-size: 1.7rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #0e0404;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+}
+
+.mon-site-portofolio-Yvr .mes-services-uV8 .auto-group-gvxz-Qgn .barre-de-spareration-1Rg {
+    width: 80.6132rem;
+    height: 0.8225rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+    box-shadow: 3.9rem 5.3rem 0 rgba(0, 0, 0, 0.25);
+    background-color: #7f8c8d;
+}
+
+.mon-site-portofolio-Yvr .mes-services-uV8 .auto-group-ocgv-W7Y {
+    margin: 0rem 0rem 2.008rem 0.904rem;
+    width: 72.9562rem;
+    height: 2.3579rem;
+    position: relative;
+}
+
+.mon-site-portofolio-Yvr .mes-services-uV8 .auto-group-ocgv-W7Y .dveloppement-dapplications-mobile-DXk {
+    width: 30rem;
+    height: 2.1rem;
+    position: absolute;
+    left: 42.9562rem;
+    top: 0;
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #0e0404;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    display: flex;
+    align-items: baseline;
+}
+
+.mon-site-portofolio-Yvr .mes-services-uV8 .auto-group-ocgv-W7Y .dveloppement-dapplications-mobile-DXk .dveloppement-dapplications-mobile-DXk-sub-0 {}
+
+.mon-site-portofolio-Yvr .mes-services-uV8 .auto-group-ocgv-W7Y .dveloppement-dapplications-mobile-DXk .dveloppement-dapplications-mobile-DXk-sub-1 {
+    font-size: 1.7rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #0e0404;
+    font-family: Inter, 'Source Sans Pro';
+}
+
+.mon-site-portofolio-Yvr .mes-services-uV8 .auto-group-ocgv-W7Y .dveloppement-de-sites-web-7mY {
+    width: 24rem;
+    height: 2.1rem;
+    position: absolute;
+    left: 0;
+    top: 0.2579rem;
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #0e0404;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    display: flex;
+    align-items: baseline;
+}
+
+.mon-site-portofolio-Yvr .mes-services-uV8 .auto-group-ocgv-W7Y .dveloppement-de-sites-web-7mY .dveloppement-de-sites-web-7mY-sub-0 {}
+
+.mon-site-portofolio-Yvr .mes-services-uV8 .auto-group-ocgv-W7Y .dveloppement-de-sites-web-7mY .dveloppement-de-sites-web-7mY-sub-1 {
+    font-size: 1.7rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #0e0404;
+    font-family: Inter, 'Source Sans Pro';
+}
+
+.mon-site-portofolio-Yvr .mes-services-uV8 .auto-group-ocgv-W7Y .barre-de-souligne-gCN {
+    width: 27.0028rem;
+    height: 0.6174rem;
+    position: absolute;
+    left: 20.9011rem;
+    top: 0.4455rem;
+    box-shadow: 3.9rem 5.3rem 0 rgba(0, 0, 0, 0.25);
+    background-color: #7f8c8d;
+}
+
+.mon-site-portofolio-Yvr .mes-services-uV8 .auto-group-akbl-mUi {
+    margin: 0rem 8.739rem 2.507rem 1.405rem;
+    width: calc(100% - 10.1443rem);
+    display: flex;
+    align-items: flex-start;
+}
+
+.mon-site-portofolio-Yvr .mes-services-uV8 .auto-group-akbl-mUi .image-dvelopement-site-t3Y {
+    margin: 0.178rem 18.77rem 0rem 0rem;
+    width: 26.7301rem;
+    height: 16.1158rem;
+    object-fit: cover;
+    vertical-align: top;
+    flex-shrink: 0;
+}
+
+.mon-site-portofolio-Yvr .mes-services-uV8 .auto-group-akbl-mUi .image-dev-apps-bTk {
+    width: 25.8309rem;
+    height: 15.7485rem;
+    object-fit: cover;
+    vertical-align: top;
+    flex-shrink: 0;
+}
+
+.mon-site-portofolio-Yvr .mes-services-uV8 .auto-group-krh4-XMQ {
+    margin: 0rem 7.233rem 0.306rem 0rem;
+    width: calc(100% - 7.2331rem);
+    display: flex;
+    align-items: flex-end;
+}
+
+.mon-site-portofolio-Yvr .mes-services-uV8 .auto-group-krh4-XMQ .marquettage-graphique-de-site-web-qcz {
+    margin: 0rem 16.542rem 0.435rem 0rem;
+    text-align: center;
+    font-size: 1.8rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #0e0404;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.mon-site-portofolio-Yvr .mes-services-uV8 .auto-group-krh4-XMQ .rdaction-de-cahier-des-charges-iwg {
+    text-align: center;
+    font-size: 1.7rem;
+    font-weight: 500;
+    line-height: 1.2125;
+    color: #0e0404;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.mon-site-portofolio-Yvr .mes-services-uV8 .auto-group-hqtg-FAv {
+    margin: 0rem 7.27rem 0rem 1.405rem;
+    width: calc(100% - 8.6752rem);
+    display: flex;
+    align-items: center;
+}
+
+.mon-site-portofolio-Yvr .mes-services-uV8 .auto-group-hqtg-FAv .image-maquettage-ZxJ {
+    margin-right: 18.7rem;
+    width: 27.4rem;
+    height: 15.8608rem;
+    object-fit: cover;
+    vertical-align: top;
+    flex-shrink: 0;
+}
+
+.mon-site-portofolio-Yvr .mes-services-uV8 .auto-group-hqtg-FAv .image-cahier-de-charge-uFU {
+    width: 26.7rem;
+    height: 15.8608rem;
+    object-fit: cover;
+    vertical-align: top;
+    flex-shrink: 0;
+}
+
+.mon-site-portofolio-Yvr .e-troisieme-section-1er-comptences-2qt {
+    margin-left: 15.0913rem;
+    width: 78.2rem;
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+}
+
+.mon-site-portofolio-Yvr .e-troisieme-section-1er-comptences-2qt .barre-de-spareration-wT4 {
+    margin: 0rem 0.023rem 3.058rem 0rem;
+    width: calc(100% - 0.0226rem);
+    height: 4.1417rem;
+    box-shadow: 3.9rem 5.3rem 0 rgba(0, 0, 0, 0.25);
+    background-color: #7f8c8d;
+    flex-shrink: 0;
+}
+
+.mon-site-portofolio-Yvr .e-troisieme-section-1er-comptences-2qt .titre-mes-comptences-dan {
+    margin: 0rem 13.501rem 1.85rem 0rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #0e0404;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    display: flex;
+    align-items: baseline;
+    flex-shrink: 0;
+}
+
+.mon-site-portofolio-Yvr .e-troisieme-section-1er-comptences-2qt .titre-mes-comptences-dan .titre-mes-comptences-dan-sub-0 {}
+
+.mon-site-portofolio-Yvr .e-troisieme-section-1er-comptences-2qt .titre-mes-comptences-dan .titre-mes-comptences-dan-sub-1 {
+    font-size: 1.7rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #0e0404;
+    font-family: Inter, 'Source Sans Pro';
+}
+
+.mon-site-portofolio-Yvr .e-troisieme-section-1er-comptences-2qt .barre-de-soulignement-dUJ {
+    margin: 0rem 0.002rem 0.665rem 0rem;
+    width: 28.2989rem;
+    height: 0.685rem;
+    box-shadow: 3.9rem 5.3rem 0 rgba(0, 0, 0, 0.25);
+    background-color: #7f8c8d;
+    flex-shrink: 0;
+}
+
+.mon-site-portofolio-Yvr .e-troisieme-section-1er-comptences-2qt .auto-group-vvwa-ike {
+    box-sizing: border-box;
+    padding: 4.9rem 9.2rem;
+    width: 77.4rem;
+    height: 105.3rem;
+    background-color: #d9d9d9;
+    flex-shrink: 0;
+}
+
+.mon-site-portofolio-Yvr .e-troisieme-section-1er-comptences-2qt .auto-group-vvwa-ike .rectangle-2-e8W {
+    opacity: 0.1;
+    width: 39.3rem;
+    height: 4.8rem;
+    background-color: rgba(217, 217, 217, 0.1000000015)
+    }
