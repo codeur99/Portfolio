@@ -1,32 +1,14 @@
-<nav class= menu-bloc>
-<p class="formation-certificat-zhc">
-    <br/>
-    Contact
-    <br/>
-    </p>
-    <p class="formation-certificat-hc2">
-    <br/>
-     Formation &amp; Certificat
-    <br/>
-    </p>
-    <p class="travaux-raliss-cU6">
-    <br/>
-    Travaux réalisés
-    <br/>
-    </p>
-    <p class="mes-comptences-KNW">
-    <br/>
-    Mes compétences
-    <br/>
-    </p>
-    <p class="mes-services-2Gv">
-    <br/>
-    Mes services
-    <br/>
-    </p>
-    <p class="a-propos-de-moi-XzN">
-    <br/>
-    A propos de moi
-    <br/>
-    </p>
-    </nav>
+<nav class="menu-header">
+    <div class="menu-groupe-1">
+        <a class="menu-bouton" href="#">Accueil</a>
+        <a class="menu-bouton" href="#">A propos de moi</a>
+        <a class="menu-bouton" href="#">Mes services</a>
+        <a class="menu-bouton" href="#">Mes compétences</a>
+   </div> 
+   <div class="menu-groupe-2">
+        <a class="menu-bouton" href="#">Travaux réalisés</a>
+        <a class="menu-bouton" href="#">Formations & Certificats</a>
+        <a class="menu-bouton" href="#">Contacts</a>
+   </div>
+   
+</nav>
