@@ -1,6 +1,7 @@
 .menu-header {
 padding: 2%;
 width: 200%;
+
 }
 
 .menu-groupe-1{
@@ -21,4 +22,11 @@ width: 200%;
 
 .color-texte-menu{
     color: black;
+}
+
+.group-icone-contact{
+
+            width: 200px;
+            height: 100px;
+    
 }

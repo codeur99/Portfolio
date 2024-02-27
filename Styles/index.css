@@ -38,7 +38,7 @@ margin-right:5%;
 text-align: center;
 }
 .fond-Bloc-presentation{
- display:block;
+display:block;
 width: 50%;
 height: 75px;
 margin-left: 40%;
@@ -97,3 +97,36 @@ margin-top: 5%;
     background-color: #7F8C8D;
     
 }
+
+.group-travaux-réalisés{
+    display: flex;
+    margin-top: 2%;
+}
+
+.travaux-réalisés{
+    display: flex;
+    margin-top: 2%;
+}
+
+.group-formations-Certificats{
+    display: flex;
+    margin-top: 2%;
+}
+
+.formations-Certificats{
+    margin-left: 5%;
+}
+
+.group-menu-contacts {
+background-color: #7F8C8D;
+}
+
+.reseau-sociaux-contact{
+    margin-top: 7%;
+    margin-left:25%;
+    height: 70px;
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+

@@ -29,7 +29,7 @@
       <div class="bloc-photo-et-paragraphe">  
           <img class="bloc-a-propos-image" src="Images\whatsapp-image-2024-02-12-1542-1.png"/>
           <p class="bloc-a-propos-paragraphe">
-              Hello! je m’appelle Lebomo Jessy Christopher<br/> Je suis développeur d’application web et mobile, j’implemente la logique metier ou encore la logique business, qui pour moi traduit les objectifs réels de l’application.
+              Hello! je m’appelle Lebomo Jessy Christopher<br/> Je suis développeur d’application web et mobile, j’implemente les logiques metier ou encore la logique business, qui pour moi traduit les objectifs réels de l’application.
           </p>
       </div>
       <div class="fond-Bloc-presentation"></div>        
@@ -66,7 +66,7 @@
                 <span class="service-nom">
                     Maquettage d'application<br/>
                 </span> 
-                <img class="image" src="https://user.oc-static.com/upload/2022/06/17/16554553276644_P1C2-2%20(1).png"/>
+                <img class="image" src="Images\image-dvelopement-site.png"/>         
             </div>
 
             <div class="Redaction-de-cahier-de-charges">
@@ -113,9 +113,83 @@
         </div>
   </section>
   
-   <div class="fond-Bloc-separation"></div>        
+   <div class="fond-Bloc-separation"></div> 
+
+
+
+    <section class="quatrieme-section">
+        <div class="nom-section">
+            <span>
+                Mes Travaux réalisés
+                <br/>
+            </span>
+        </div>
+
+        <div class="services-groupes">    
+            <div class="dev-web">
+                <span class="service-nom">
+                 <button class="bouton-competence">Réalisation du site web du laboratoire numérique de COMILOG à Moanda</button>
+                </span> 
+                <img class="image" src="Images\image-dvelopement-site.png"/>         
+            </div>
+
+            <div class="dev-mobile">
+                <span class="service-nom">
+                   <button class="bouton-competence">Réalisation de mon site portfolio</button>
+                </span> 
+                <img class="image" src="Images/image-dev-apps.png"/>
+            </div>
+        </div>
+  </section>
+  
+   <div class="fond-Bloc-separation"></div>  
+
+    <section class="cinquieme-section">
+        <div class="nom-section">
+            <span>
+                Mes Formations & Certificats
+                <br/>
+            </span>
+        </div>
+
+        <div class="group-formations-Certificats"> 
+            <div>
+                <button class="formations-Certificats">Formation certifiante COMILOG en développement web et web mobile</button>
+            </div>
+            <div>
+                <button class="formations-Certificats">Formation cerifiante en développement back-end</button>
+            </div>
+            <div>
+                <button class="formations-Certificats">Formation cerifiante en maquettage graphique d’application web et mobile</button>
+            </div>
+            <div>
+                <button class="formations-Certificats">Formation cerifiante en développement agile</button>
+            </div>
+        </div>
+
+
+
+  </section>
+     <div class="fond-Bloc-separation"></div>  
+
+    <section class="sixieme-section">
+        <div class="nom-section">
+            <span>
+                Contacs
+                <br/>
+            </span>
+        </div>
+
+        <div class="reseau-sociaux-contact">
+            <a href="mailto:Lebomojessy63@gmail.com"><img src="Images/Gmail-image-logo.png" alt="gmail"></a>
+            <a href="https://web.whatsapp.com/"><img src="Images\whatsapp-image-logo.jpg" alt="hatsapp"></a>
+            <a href="tel:+24165881636"><img src="Images/Gmail-image-logo.png" alt="Appel"></a>
+            <a href="https://www.linkedin.com/in/jessy-christopher-lebomo-9544b513a/"><img src="Images/linkedlin-image-logo.jpg" alt="Linkedlin"></a>
+        </div>
+
+    </section>    
+    
+    
 
 </body>
-
-
 </html>
