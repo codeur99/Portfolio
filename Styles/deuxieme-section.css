@@ -1,0 +1,41 @@
+.deuxieme-section {
+    margin-top: 5%;
+}
+
+.services-groupes {
+    display: flex;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+.image {
+    width: 80%;
+    height: 80%;
+}
+
+.service-nom {
+    text-align: center;
+    margin-left: 15%;
+}
+
+.Maquettage-web-et-mobile {
+    width: 100%;
+}
+
+.Redaction-de-cahier-de-charges {
+    margin-left: 10%;
+}
+
+.group-1-competence {
+    display: flex;
+    margin-top: 2%;
+}
+
+.group-2-competence {
+    display: flex;
+    margin-top: 3%;
+}
+
+.bouton-competence {
+    margin-left: 5%;
+}

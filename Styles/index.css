@@ -1,93 +1,11 @@
-header {
+.groupe-menu-logo {
     display: flex;
-    justify-content: space-between;
     width: 100%;
-    background-color: #d0d0d0;
+    background-color: #d0d0d0;  
+    position: fixed;
 }
 
-.premiere-section{
-    box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
-    background-color: #d9d9d9;
-    margin-left: 50%;
-    margin-top: 1%;
-}
-.bloc-photo-et-paragraphe{
-    display: flex;
-}
-
-.bloc-a-propos-image{
-   width: 20%;
-   height: 40%;
-}
-
-.bloc-a-propos-paragraphe{
-    font-family: inter;
-    height: 20%;
-    width: 60%;
-    background-color: white;
-    margin-left: 10%;
-}
-
-.nom-section {
-color: #0e0404;
-font-family: Inter, 'Source Sans Pro';
-background-color: #d9d9d9;
-margin-left: 75%;
-margin-top: 1%;
-margin-right:5%;
-text-align: center;
-}
-.fond-Bloc-presentation{
-display:block;
-width: 50%;
-height: 75px;
-margin-left: 40%;
-box-shadow: 20px 30px 5px rgba(0, 0, 0, 0.25);
-background-color: #7F8C8D;
-}
-
-.deuxieme-section{
-margin-top: 5%;
-}
-.services-groupes{
-    display: flex;
-    margin-top: 2%;
-    margin-left: 2%;
-}
-
-.image {
-    width: 80%;
-    height: 80%;
-}
-
-.service-nom{
-    text-align: center ;
-    margin-left: 10%;
-}
-
-.Maquettage-web-et-mobile{
-    width: 100%;
-}
-
-.Redaction-de-cahier-de-charges{
-    margin-left: 10%;
-}
-
-.group-1-competence{
-    display: flex;
-    margin-top: 2%;
-}
-
-.group-2-competence{
- display: flex;
- margin-top: 3%;
-}
-
-.bouton-competence{
-    margin-left: 5% ;
-}
-
-.fond-Bloc-separation{
+.fond-Bloc-separation {
     display: block;
     width: 100%;
     height: 75px;
@@ -98,35 +16,9 @@ margin-top: 5%;
     
 }
 
-.group-travaux-réalisés{
-    display: flex;
-    margin-top: 2%;
+.corps{
+    margin-top: 20%;
+    border: 2px solid green;
 }
 
-.travaux-réalisés{
-    display: flex;
-    margin-top: 2%;
-}
-
-.group-formations-Certificats{
-    display: flex;
-    margin-top: 2%;
-}
-
-.formations-Certificats{
-    margin-left: 5%;
-}
-
-.group-menu-contacts {
-background-color: #7F8C8D;
-}
-
-.reseau-sociaux-contact{
-    margin-top: 7%;
-    margin-left:25%;
-    height: 70px;
-    width: 50%;
-    display: flex;
-    justify-content: space-between;
-}
 

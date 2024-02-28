@@ -1,0 +1,42 @@
+.premiere-section{
+    box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+    background-color: #d9d9d9;
+    margin-left: 50%;
+    margin-top: 1%;
+    overflow: hidden;
+}
+.bloc-photo-et-paragraphe{
+    display: flex;
+}
+
+.bloc-a-propos-image{
+   width: 20%;
+   height: 40%;
+}
+
+.bloc-a-propos-paragraphe{
+    font-family: inter;
+    height: 20%;
+    width: 60%;
+    background-color: white;
+    margin-left: 10%;
+}
+
+.nom-section {
+color: #0e0404;
+font-family: Inter, 'Source Sans Pro';
+background-color: #d9d9d9;
+margin-left: 75%;
+margin-top: 1%;
+margin-right:5%;
+text-align: center;
+}
+
+.fond-en-bas-du-Bloc-de-presentation{
+display:block;
+width: 50%;
+height: 75px;
+margin-left: 40%;
+box-shadow: 20px 30px 5px rgba(0, 0, 0, 0.25);
+background-color: #7F8C8D;
+}

@@ -1,0 +1,33 @@
+.group-menu-contacts {
+background-color: #7F8C8D;
+}
+
+.reseau-sociaux-contact{
+    margin-top: 1%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+.image-contact{
+    height: 100px;
+    
+}
+
+.titre-image-contact{
+    text-align: center;
+    margin-left: 5%;
+}
+
+.lien {
+    text-decoration: none;
+}
+
+.sixieme-section{
+    border: 2px solid black;
+    margin-top:0;
+
+}

@@ -1,19 +1,18 @@
-.menu-header {
-padding: 2%;
-width: 200%;
-
+.menu-principal {
+    width: 100%;
+    flex-wrap: wrap;
+    margin-top: 3%;
 }
 
 .menu-groupe-1{
     display: flex;
     justify-content: space-between;
     margin-top: 5%;
-   
 }
 
 
 .menu-bouton{
-    margin: 2%;
+    margin: 6%;
     text-decoration: none;
     cursor: pointer;
     font-family: inter;
@@ -25,8 +24,6 @@ width: 200%;
 }
 
 .group-icone-contact{
-
             width: 200px;
-            height: 100px;
-    
+            height: 100px;  
 }
