@@ -4,4 +4,5 @@
         <a class="menu-bouton" href="#quatrieme-section"><span class="color-texte-menu">Mes travaux réalisés</span></a>
         <a class="menu-bouton" href="#cinquieme-section"><span class="color-texte-menu">Mes formations</span></a>
         <a class="menu-bouton" href="#sixieme-section"><span class="color-texte-menu">Contacts</span></a>
+        <a class="menu-bouton" href="test.php"><span class="color-texte-menu">test</span></a>
 </nav>

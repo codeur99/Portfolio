@@ -7,32 +7,32 @@
 
         <div class="services-groupes">    
             <div class="dev-web">
-                <span class="service-nom">
+                <span class="nom-du-service">
                     Développement de Sites web<br/>
                 </span> 
-                <img class="image" src="Images\image-dvelopement-site.png"/>         
+                <img class="image-dev-et-mobile" src="Images\image-dvelopement-site.png"/>         
             </div>
 
             <div class="dev-mobile">
-                <span class="service-nom">
+                <span class="nom-du-service">
                     Développement d'application mobile<br/>
                 </span> 
-                <img class="image" src="Images/image-dev-apps.png"/>
+                <img class="image-dev-et-mobile" src="Images/image-dev-apps.png"/>
             </div>
         </div>
 
         <div class="services-groupes">    
-            <div class="Maquettage-web-et-mobile">
-                <span class="service-nom">
+            <div class="maquettage-web-et-mobile">
+                <span class="nom-du-service">
                     Maquettage d'application<br/>
                 </span> 
-                <img class="image" src="Images\image-dvelopement-site.png"/>         
+                <img class="image-maquettage-web-et-mobile--et--redaction-de-cahier-de-charges" src="Images/maquettage-graphique-image.jpeg"/>         
             </div>
 
-            <div class="Redaction-de-cahier-de-charges">
-                <span class="service-nom">
+            <div class="redaction-de-cahier-de-charges">
+                <span class="nom-du-service">
                     Rédaction de cahier des charges<br/>
                 </span> 
-                <img class="image" src="Images\image-cahier-de-charge.png"/>
+                <img class="image-maquettage-web-et-mobile--et--redaction-de-cahier-de-charges" src="Images\image-cahier-de-charge.png"/>
             </div>
         </div>

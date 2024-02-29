@@ -19,11 +19,10 @@
 
 <body>
 
-  <header class="groupe-menu-logo">
+    <header class="groupe-menu-logo">
       <?php include("logo.php");?>
       <?php include("menu.php");?>
-   
-  </header>
+    </header>
 
 
   <div class="nom-section">
@@ -36,19 +35,19 @@
           <?php include("premiere-section.php");?>
   </section>
 
-  <div class="fond-Bloc-separation"></div>        
+  <div class="Bloc-de-separation"></div>        
 
   <section id="deuxieme-section" class="deuxieme-section">
        <?php include("deuxieme-section.php");?>
   </section>
 
-  <div class="fond-Bloc-separation"></div>        
+  <div class="Bloc-de-separation"></div>        
 
     <section id="troisieme-section" class="troisieme-section">
         <?php include("troisieme-section.php");?>
     </section>
   
-   <div class="fond-Bloc-separation"></div> 
+   <div class="Bloc-de-separation"></div> 
 
 
 
@@ -56,13 +55,13 @@
         <?php include("quatrieme-section.php");?>
   </section>
   
-   <div class="fond-Bloc-separation"></div>  
+   <div class="Bloc-de-separation"></div>  
 
     <section id="cinquieme-section" class="cinquieme-section">
          <?php include("cinquieme-section.php");?>
     </section>
 
-     <div class="fond-Bloc-separation"></div>  
+     <div class="Bloc-de-separation"></div>  
 
     <section id="sixieme-section" class="sixieme-section">
          <?php include("sixieme-section.php");?>

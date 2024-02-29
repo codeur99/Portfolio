@@ -1,7 +1,15 @@
-.logo{
-  width: 50%;
+.image-du-logo {
+  width: 30%;
   height: 100%;
 }
 
-.container-logo{
+.container-logo {
+  position:relative;
+  font-weight: 700;
+  color: fff;
+  text-decoration: none;
+  text-transform: 2px;
+  letter-spacing: 2px;
+  transition: 0.6;
 }
+

@@ -1,29 +1,69 @@
+.groupe-menu-logo {
+    display: flex;
+    width: 100%;
+    background-color: #7F8C8D;
+    position: fixed;
+    top: 0;
+    left: 0;
+    transition: 0.6s;
+    padding: 40px 100px;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100000;
+}
+
 .menu-principal {
     width: 100%;
     flex-wrap: wrap;
-    margin-top: 3%;
+    margin-top: 1%z
 }
 
-.menu-groupe-1{
+.menu-groupe-1 {
     display: flex;
-    justify-content: space-between;
-    margin-top: 5%;
+    margin-left: 5%;
 }
 
 
-.menu-bouton{
-    margin: 6%;
+.menu-bouton {
+    margin: 7%;
     text-decoration: none;
     cursor: pointer;
     font-family: inter;
     text-align: center;
+    margin-top: 25%;
+    height: 1px;
+    margin-left: 6%;
 }
 
-.color-texte-menu{
+.color-texte-menu {
     color: black;
 }
 
-.group-icone-contact{
-            width: 200px;
-            height: 100px;  
+.group-icone-contact {
+    width: 200%;
+    height: 100%;
+}
+
+.banner {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background: url();
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: inter;
+}
+
+.body {
+    background: #000;
+    min-height: 200vh;
+}
+
+.header {
+    position: fixed;
+
 }

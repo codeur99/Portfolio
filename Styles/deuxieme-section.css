@@ -8,22 +8,22 @@
     margin-left: 2%;
 }
 
-.image {
-    width: 80%;
-    height: 80%;
+.image-dev-et-mobile {
+    width: 50%;
+    height: 50;
+    margin-top: 2%;
 }
 
-.service-nom {
+.nom-du-service {
     text-align: center;
-    margin-left: 15%;
+    margin-left: 5%;
 }
 
-.Maquettage-web-et-mobile {
-    width: 100%;
-}
 
-.Redaction-de-cahier-de-charges {
-    margin-left: 10%;
+
+.image-maquettage-web-et-mobile--et--redaction-de-cahier-de-charges{
+    width: 50%;
+    height: 50;
 }
 
 .group-1-competence {
@@ -34,6 +34,7 @@
 .group-2-competence {
     display: flex;
     margin-top: 3%;
+
 }
 
 .bouton-competence {
