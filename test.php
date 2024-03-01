@@ -9,7 +9,7 @@
 <body>
     <header>
         <div>
-             <a href="#" class="logo">Logo</a>
+            <img class="image-du-logo" src="Images/logo-image.png" alt="logo">
         </div>
        
         <ul>
@@ -20,6 +20,7 @@
             <li> <a href="#">Contacts</a></li>
         </ul>
     </header>
+
     <section class="banner"></section>
     <script type="text/javascript">
         window.addEventListener("scroll",function(){
@@ -30,3 +31,4 @@
     </script>
 </body>
 </html>
+

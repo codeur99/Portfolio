@@ -1,8 +1,10 @@
-<nav class="menu-principal">
-        <a class="menu-bouton" href="#premiere-section"><span class="color-texte-menu">Accueil</span></a>
-        <a class="menu-bouton" href="#troisieme-section"><span class="color-texte-menu">Mes compétences</span></a>
-        <a class="menu-bouton" href="#quatrieme-section"><span class="color-texte-menu">Mes travaux réalisés</span></a>
-        <a class="menu-bouton" href="#cinquieme-section"><span class="color-texte-menu">Mes formations</span></a>
-        <a class="menu-bouton" href="#sixieme-section"><span class="color-texte-menu">Contacts</span></a>
-        <a class="menu-bouton" href="test.php"><span class="color-texte-menu">test</span></a>
-</nav>
+
+        <ul>
+                <li> <a href="#premiere-section">Accueil</a></li>
+                <li> <a href="#section-competence">Compétences</a></li>
+                <li> <a href="#quatrieme-section">Mes travaux réalisés</a></li>
+                <li> <a href="#cinquieme-section">Formations</a></li>
+                <li> <a href="#sixieme-section">Contacts</a></li>
+                <li> <a href="test-2.php">test-2</a></li>
+
+        </ul>

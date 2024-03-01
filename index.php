@@ -6,8 +6,6 @@
     <title>Portfolio</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter%3A200%2C400%2C500"/>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A200%2C400%2C500"/>
-    <link rel="stylesheet" href="./styles/menu.css"/>
-    <link rel="stylesheet" href="./styles/logo.css"/>
     <link rel="stylesheet" href="./styles/index.css"/>
     <link rel="stylesheet" href="Styles\premiere-section.css">
     <link rel="stylesheet" href="Styles\deuxieme-section.css">
@@ -15,23 +13,25 @@
     <link rel="stylesheet" href="Styles\quatrieme-section.css">
     <link rel="stylesheet" href="Styles\cinquieme-section.css">
     <link rel="stylesheet" href="Styles\sixieme-section.css">
+     <link rel="stylesheet" href="test.css">
 </head>
 
 <body>
 
-    <header class="groupe-menu-logo">
-      <?php include("logo.php");?>
+    <header>
       <?php include("menu.php");?>
     </header>
 
+<div class="corps">
 
-  <div class="nom-section">
+
+  <div id="premiere-section" class="premiere-section-nom">
       <span>
           A propos de moi
       </span>
   </div>
 
-  <section id="premiere-section" class="premiere-section">  
+  <section class="premiere-section">  
           <?php include("premiere-section.php");?>
   </section>
 
@@ -49,8 +49,7 @@
   
    <div class="Bloc-de-separation"></div> 
 
-
-
+   
   <section id="quatrieme-section" class="quatrieme-section">
         <?php include("quatrieme-section.php");?>
   </section>
@@ -67,7 +66,15 @@
          <?php include("sixieme-section.php");?>
     </section>    
     
-    
+        <section class="banner"></section>
+    <script type="text/javascript">
+        window.addEventListener("scroll",function(){
+            var header = document.querySelector("header");
+            header.classList.toggle("sticky", window.scrollY > 0)
+        })
 
+    </script>
+    
+</div>
 </body>
 </html>

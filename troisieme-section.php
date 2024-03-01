@@ -1,4 +1,4 @@
- <div class="nom-section">
+ <div id="section-competence" class="nom-section">
             <span>
                 Mes compétences
                 <br/>

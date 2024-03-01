@@ -8,7 +8,7 @@
 
 body {
     border: 2px solid rgb(0, 4, 255);
-    background: #000;
+    background: white;
     min-height: 200vh;
 }
 
@@ -24,6 +24,8 @@ header {
     transition: 0.6s;
     padding: 40px 100px;
     z-index: 100000;
+    flex-wrap: wrap;
+    height: 50px;
 }
 
 header .logo {
@@ -36,7 +38,9 @@ header .logo {
     text-transform: uppercase;
     letter-spacing: 2px;
     transition: 0.6s;
+    
 }
+
 
 header ul{
     position: relative;
@@ -64,7 +68,6 @@ header ul li a {
     position: relative;
     width: 100%;
     height: 100vh;
-    background: url(Images/maquettage-graphique-image.jpeg);
     background-size: cover;
 }
 
